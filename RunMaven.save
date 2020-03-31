@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd /Users/ivanboistean/BankingProject/
+mvn clean
+mvn compile
+mvn test

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BankingProject" duration-ms="12704" started-at="2020-03-26T19:59:31Z" finished-at="2020-03-26T19:59:44Z">
+    <groups>
+    </groups>
+    <test name="BankingApp Test" duration-ms="12704" started-at="2020-03-26T19:59:31Z" finished-at="2020-03-26T19:59:44Z">
+      <class name="com.bankingproject.testCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.bankingproject.testCases.TC_LoginTest_001@57fffcd7]" name="setup" is-config="true" duration-ms="7356" started-at="2020-03-26T19:59:31Z" finished-at="2020-03-26T19:59:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.bankingproject.testCases.TC_LoginTest_001@57fffcd7]" name="loginTest" duration-ms="1231" started-at="2020-03-26T19:59:39Z" finished-at="2020-03-26T19:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bankingproject.testCases.TC_LoginTest_001@57fffcd7]" name="tearDown" is-config="true" duration-ms="3861" started-at="2020-03-26T19:59:40Z" finished-at="2020-03-26T19:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bankingproject.testCases.TC_LoginTest_001 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- BankingProject -->
+</testng-results>

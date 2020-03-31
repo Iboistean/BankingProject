@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a84773e9-968a-4cef-96a5-b673f4899675" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zdl4UFFAnNBHtrDvWoA3Hazx1l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="TestNG.TC_LoginTest_001">
+    <configuration name="TC_LoginTest_001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BankingProject" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bankingproject.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.bankingproject.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.bankingproject.testCases.TC_LoginTest_001" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ivanboistean/BankingProject/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BankingProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TC_LoginTest_001" />
+      <item itemvalue="TestNG./Users/ivanboistean/BankingProject/TestNG.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TC_LoginTest_001" />
+        <item itemvalue="TestNG./Users/ivanboistean/BankingProject/TestNG.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a84773e9-968a-4cef-96a5-b673f4899675" name="Default Changelist" comment="" />
+      <created>1585176660825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585176660825</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1540" y="277" key="#TC_LoginTest_001" timestamp="1585251752480">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state x="1540" y="277" key="#TC_LoginTest_001/0.23.2560.1370@0.23.2560.1370" timestamp="1585251752480" />
+    <state x="295" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585193631654">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state x="295" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1370@0.23.2560.1370" timestamp="1585193631654" />
+    <state x="854" y="200" width="1426" height="905" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585188600053">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state x="854" y="200" width="1426" height="905" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.2560.1370@0.23.2560.1370" timestamp="1585188600053" />
+    <state x="1501" y="411" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585195598096">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state x="1501" y="411" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1370@0.23.2560.1370" timestamp="1585195598096" />
+    <state width="1584" height="2" key="GridCell.Tab.0.bottom" timestamp="1585251973802">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="1584" height="2" key="GridCell.Tab.0.bottom/0.23.2560.1370@0.23.2560.1370" timestamp="1585251973802" />
+    <state width="1584" height="2" key="GridCell.Tab.0.center" timestamp="1585251973801">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="1584" height="2" key="GridCell.Tab.0.center/0.23.2560.1370@0.23.2560.1370" timestamp="1585251973801" />
+    <state width="1584" height="2" key="GridCell.Tab.0.left" timestamp="1585251973801">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="1584" height="2" key="GridCell.Tab.0.left/0.23.2560.1370@0.23.2560.1370" timestamp="1585251973800" />
+    <state width="1584" height="2" key="GridCell.Tab.0.right" timestamp="1585251973801">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="1584" height="2" key="GridCell.Tab.0.right/0.23.2560.1370@0.23.2560.1370" timestamp="1585251973801" />
+    <state width="1584" height="367" key="GridCell.Tab.1.bottom" timestamp="1585203333288">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="1584" height="367" key="GridCell.Tab.1.bottom/0.23.2560.1370@0.23.2560.1370" timestamp="1585203333288" />
+    <state width="1584" height="367" key="GridCell.Tab.1.center" timestamp="1585203333287">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="1584" height="367" key="GridCell.Tab.1.center/0.23.2560.1370@0.23.2560.1370" timestamp="1585203333287" />
+    <state width="1584" height="367" key="GridCell.Tab.1.left" timestamp="1585203333287">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="1584" height="367" key="GridCell.Tab.1.left/0.23.2560.1370@0.23.2560.1370" timestamp="1585203333287" />
+    <state width="1584" height="367" key="GridCell.Tab.1.right" timestamp="1585203333287">
+      <screen x="0" y="23" width="2560" height="1370" />
+    </state>
+    <state width="1584" height="367" key="GridCell.Tab.1.right/0.23.2560.1370@0.23.2560.1370" timestamp="1585203333287" />
+  </component>
+</project>

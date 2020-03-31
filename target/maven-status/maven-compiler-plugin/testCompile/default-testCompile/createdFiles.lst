@@ -1,0 +1,9 @@
+com/bankingproject/testCases/TC_LoginDDT_002.class
+com/bankingproject/pageObjects/LoginPage.class
+com/bankingproject/utilities/ReadConfig.class
+com/bankingproject/pageObjects/AddCustomerPage.class
+com/bankingproject/testCases/TC_AddCustomerTest_003.class
+com/bankingproject/testCases/TC_LoginTest_001.class
+com/inetbanking/utilities/XLUtils.class
+com/bankingproject/utilities/Reporting.class
+com/bankingproject/testCases/Base_Class.class

@@ -1,0 +1,310 @@
+2020-03-25 22:56:10,197 [main] INFO ebanking - Url is open
+2020-03-25 22:56:10,575 [main] INFO ebanking - Login is Entered
+2020-03-25 22:56:10,714 [main] INFO ebanking - Password is Entered
+2020-03-25 22:57:45,872 [main] INFO ebanking - Url is open
+2020-03-25 22:57:46,147 [main] INFO ebanking - Login is Entered
+2020-03-25 22:57:46,287 [main] INFO ebanking - Password is Entered
+2020-03-25 22:59:20,421 [main] INFO ebanking - Url is open
+2020-03-25 22:59:20,798 [main] INFO ebanking - Login is Entered
+2020-03-25 22:59:20,981 [main] INFO ebanking - Password is Entered
+2020-03-25 23:01:02,637 [main] INFO ebanking - Url is open
+2020-03-25 23:01:02,889 [main] INFO ebanking - Login is Entered
+2020-03-25 23:01:03,158 [main] INFO ebanking - Password is Entered
+2020-03-25 23:05:59,585 [main] INFO Base_Class - Url is open
+2020-03-25 23:05:59,965 [main] INFO Base_Class - Login is Entered
+2020-03-25 23:06:00,059 [main] INFO Base_Class - Password is Entered
+2020-03-25 23:06:00,483 [main] INFO Base_Class - Test Case Executed
+2020-03-25 23:06:36,779 [main] INFO Base_Class - Url is open
+2020-03-25 23:06:37,129 [main] INFO Base_Class - Login is Entered
+2020-03-25 23:06:37,246 [main] INFO Base_Class - Password is Entered
+2020-03-25 23:06:37,839 [main] INFO Base_Class - Test Case Passed
+2020-03-25 23:06:37,839 [main] INFO Base_Class - Test Case Executed
+2020-03-25 23:32:58,171 [main] INFO Base_Class - Url is open
+2020-03-25 23:32:58,577 [main] INFO Base_Class - Url is open
+2020-03-25 23:32:58,684 [main] INFO Base_Class - Password is Entered
+2020-03-25 23:32:59,258 [main] INFO Base_Class - Test Case Passed
+2020-03-25 23:32:59,258 [main] INFO Base_Class - Test Case Executed
+2020-03-25 23:34:55,185 [main] INFO Base_Class - Url is open
+2020-03-26 01:10:42,104 [main] INFO Base_Class - Url is open
+2020-03-26 01:10:42,461 [main] INFO Base_Class - Url is open
+2020-03-26 01:10:42,581 [main] INFO Base_Class - Password is Entered
+2020-03-26 01:10:43,059 [main] INFO Base_Class - Test Case Passed
+2020-03-26 01:10:43,059 [main] INFO Base_Class - Test Case Executed
+2020-03-26 01:18:21,551 [main] INFO Base_Class - Url is open
+2020-03-26 01:18:21,799 [main] INFO Base_Class - Url is open
+2020-03-26 01:18:21,943 [main] INFO Base_Class - Password is Entered
+2020-03-26 01:18:22,794 [main] INFO Base_Class - Test Case Passed
+2020-03-26 01:18:22,795 [main] INFO Base_Class - Test Case Executed
+2020-03-26 01:26:49,868 [main] INFO Base_Class - Url is open
+2020-03-26 01:26:49,956 [main] INFO Base_Class - Url is open
+2020-03-26 01:26:49,993 [main] INFO Base_Class - Password is Entered
+2020-03-26 01:26:51,456 [main] INFO Base_Class - Test Case Passed
+2020-03-26 01:26:51,456 [main] INFO Base_Class - Test Case Executed
+2020-03-26 01:28:12,849 [main] INFO Base_Class - Url is open
+2020-03-26 01:28:12,944 [main] INFO Base_Class - Url is open
+2020-03-26 01:28:12,980 [main] INFO Base_Class - Password is Entered
+2020-03-26 01:28:15,541 [main] INFO Base_Class - Test Case Passed
+2020-03-26 01:28:15,541 [main] INFO Base_Class - Test Case Executed
+2020-03-26 01:29:11,692 [main] INFO Base_Class - Url is open
+2020-03-26 01:29:11,778 [main] INFO Base_Class - Url is open
+2020-03-26 01:29:11,815 [main] INFO Base_Class - Password is Entered
+2020-03-26 01:29:12,975 [main] INFO Base_Class - Test Case Passed
+2020-03-26 01:29:12,975 [main] INFO Base_Class - Test Case Executed
+2020-03-26 01:30:50,964 [main] INFO Base_Class - Url is open
+2020-03-26 01:30:51,110 [main] INFO Base_Class - Url is open
+2020-03-26 01:30:51,153 [main] INFO Base_Class - Password is Entered
+2020-03-26 01:30:54,198 [main] INFO Base_Class - Test Case Passed
+2020-03-26 01:30:54,198 [main] INFO Base_Class - Test Case Executed
+2020-03-26 01:37:29,794 [main] INFO Base_Class - Url is open
+2020-03-26 01:37:29,963 [main] INFO Base_Class - Url is open
+2020-03-26 01:37:30,044 [main] INFO Base_Class - Password is Entered
+2020-03-26 01:37:30,522 [main] INFO Base_Class - Test Case Passed
+2020-03-26 01:37:30,523 [main] INFO Base_Class - Test Case Executed
+2020-03-26 01:39:12,682 [main] INFO Base_Class - Url is open
+2020-03-26 01:42:12,951 [main] INFO Base_Class - Url is open
+2020-03-26 01:42:41,832 [main] INFO Base_Class - Url is open
+2020-03-26 01:42:42,023 [main] INFO Base_Class - Login is Entered
+2020-03-26 01:42:42,125 [main] INFO Base_Class - Password is Entered
+2020-03-26 01:42:42,563 [main] INFO Base_Class - Test Case Passed
+2020-03-26 01:42:42,563 [main] INFO Base_Class - Test Case Executed
+2020-03-26 01:47:43,861 [main] INFO Base_Class - Url is open
+2020-03-26 01:50:56,956 [main] INFO Base_Class - Url is open
+2020-03-26 01:50:57,056 [main] INFO Base_Class - Login is Entered
+2020-03-26 01:50:57,093 [main] INFO Base_Class - Password is Entered
+2020-03-26 01:51:00,809 [main] INFO Base_Class - Test Case Passed
+2020-03-26 01:51:00,809 [main] INFO Base_Class - Test Case Executed
+2020-03-26 01:52:48,513 [main] INFO Base_Class - Url is open
+2020-03-26 01:52:48,668 [main] INFO Base_Class - Login is Entered
+2020-03-26 01:52:48,746 [main] INFO Base_Class - Password is Entered
+2020-03-26 01:52:49,216 [main] INFO Base_Class - Test Case Passed
+2020-03-26 01:52:49,217 [main] INFO Base_Class - Test Case Executed
+2020-03-26 02:13:33,353 [main] INFO Base_Class - Url is open
+2020-03-26 02:13:33,662 [main] INFO Base_Class - Login is Entered
+2020-03-26 02:13:33,774 [main] INFO Base_Class - Password is Entered
+2020-03-26 02:13:34,347 [main] INFO Base_Class - Test Case Passed
+2020-03-26 02:13:34,348 [main] INFO Base_Class - Test Case Executed
+2020-03-26 02:14:00,529 [main] INFO Base_Class - Url is open
+2020-03-26 02:14:00,623 [main] INFO Base_Class - Login is Entered
+2020-03-26 02:14:00,671 [main] INFO Base_Class - Password is Entered
+2020-03-26 02:14:02,528 [main] INFO Base_Class - Test Case Passed
+2020-03-26 02:14:02,529 [main] INFO Base_Class - Test Case Executed
+2020-03-26 02:14:16,201 [main] INFO Base_Class - Url is open
+2020-03-26 10:41:57,513 [main] INFO Base_Class - Url is open
+2020-03-26 10:41:57,874 [main] INFO Base_Class - Login is Entered
+2020-03-26 10:41:58,282 [main] INFO Base_Class - Password is Entered
+2020-03-26 10:41:58,855 [main] INFO Base_Class - Test Case Passed
+2020-03-26 10:41:58,856 [main] INFO Base_Class - Test Case Executed
+2020-03-26 14:26:29,378 [main] INFO Base_Class - Url is open
+2020-03-26 14:26:29,613 [main] INFO Base_Class - Login is Entered
+2020-03-26 14:26:29,877 [main] INFO Base_Class - Password is Entered
+2020-03-26 14:26:30,445 [main] INFO Base_Class - Test Case Passed
+2020-03-26 14:26:30,446 [main] INFO Base_Class - Test Case Executed
+2020-03-26 14:28:17,910 [main] INFO Base_Class - Url is open
+2020-03-26 14:28:18,238 [main] INFO Base_Class - Login is Entered
+2020-03-26 14:28:18,398 [main] INFO Base_Class - Password is Entered
+2020-03-26 14:28:19,166 [main] INFO Base_Class - Test Case Passed
+2020-03-26 14:28:19,166 [main] INFO Base_Class - Test Case Executed
+2020-03-26 14:30:18,387 [main] INFO Base_Class - Url is open
+2020-03-26 14:30:18,621 [main] INFO Base_Class - Login is Entered
+2020-03-26 14:30:18,871 [main] INFO Base_Class - Password is Entered
+2020-03-26 14:30:19,902 [main] INFO Base_Class - Test Case Passed
+2020-03-26 14:30:19,902 [main] INFO Base_Class - Test Case Executed
+2020-03-26 15:59:39,286 [main] INFO Base_Class - Url is open
+2020-03-26 15:59:39,370 [main] INFO Base_Class - Login is Entered
+2020-03-26 15:59:39,415 [main] INFO Base_Class - Password is Entered
+2020-03-26 15:59:40,509 [main] INFO Base_Class - Test Case Passed
+2020-03-26 15:59:40,510 [main] INFO Base_Class - Test Case Executed
+2020-03-26 16:42:49,100 [main] INFO Base_Class - Url is open
+2020-03-26 16:42:49,194 [main] INFO Base_Class - Login is Entered
+2020-03-26 16:42:49,234 [main] INFO Base_Class - Password is Entered
+2020-03-26 16:42:51,592 [main] INFO Base_Class - Test Case Passed
+2020-03-26 16:42:51,592 [main] INFO Base_Class - Test Case Executed
+2020-03-26 16:43:56,715 [main] INFO Base_Class - Url is open
+2020-03-26 16:43:56,802 [main] INFO Base_Class - Login is Entered
+2020-03-26 16:43:56,841 [main] INFO Base_Class - Password is Entered
+2020-03-26 21:20:47,651 [main] INFO Base_Class - Url is open
+2020-03-26 21:20:47,738 [main] INFO Base_Class - Login is Entered
+2020-03-26 21:20:47,774 [main] INFO Base_Class - Password is Entered
+2020-03-26 22:37:13,214 [main] INFO Base_Class - user name provided
+2020-03-26 22:37:13,257 [main] INFO Base_Class - password provided
+2020-03-26 22:37:21,597 [main] INFO Base_Class - Login Passed
+2020-03-26 22:37:22,563 [main] INFO Base_Class - user name provided
+2020-03-26 22:37:22,592 [main] INFO Base_Class - password provided
+2020-03-26 22:37:24,098 [main] INFO Base_Class - Login Passed
+2020-03-26 22:37:24,695 [main] INFO Base_Class - user name provided
+2020-03-26 22:37:24,764 [main] INFO Base_Class - password provided
+2020-03-26 22:37:26,380 [main] INFO Base_Class - Login Passed
+2020-03-26 22:37:27,073 [main] INFO Base_Class - user name provided
+2020-03-26 22:37:27,135 [main] INFO Base_Class - password provided
+2020-03-26 22:42:19,770 [main] INFO Base_Class - user name provided
+2020-03-26 22:42:19,817 [main] INFO Base_Class - password provided
+2020-03-26 22:42:31,339 [main] INFO Base_Class - Login Passed
+2020-03-26 22:42:33,023 [main] INFO Base_Class - user name provided
+2020-03-26 22:42:33,084 [main] INFO Base_Class - password provided
+2020-03-26 22:42:40,287 [main] INFO Base_Class - Login Passed
+2020-03-26 22:42:41,926 [main] INFO Base_Class - user name provided
+2020-03-26 22:42:41,955 [main] INFO Base_Class - password provided
+2020-03-26 22:42:47,760 [main] INFO Base_Class - Login Passed
+2020-03-26 22:42:48,776 [main] INFO Base_Class - user name provided
+2020-03-26 22:42:48,804 [main] INFO Base_Class - password provided
+2020-03-26 22:59:56,693 [main] INFO Base_Class - user name provided
+2020-03-26 22:59:56,775 [main] INFO Base_Class - password provided
+2020-03-26 23:00:06,932 [main] INFO Base_Class - Login Passed
+2020-03-26 23:00:21,844 [main] INFO Base_Class - user name provided
+2020-03-26 23:00:21,920 [main] INFO Base_Class - password provided
+2020-03-26 23:00:29,883 [main] INFO Base_Class - user name provided
+2020-03-26 23:00:29,952 [main] INFO Base_Class - password provided
+2020-03-26 23:00:33,814 [main] INFO Base_Class - Login Passed
+2020-03-26 23:00:38,373 [main] INFO Base_Class - user name provided
+2020-03-26 23:00:38,439 [main] INFO Base_Class - password provided
+2020-03-26 23:00:42,832 [main] INFO Base_Class - Login Passed
+2020-03-26 23:04:48,029 [main] INFO Base_Class - user name provided
+2020-03-26 23:04:48,128 [main] INFO Base_Class - password provided
+2020-03-26 23:04:57,185 [main] INFO Base_Class - Login Passed
+2020-03-26 23:04:58,832 [main] INFO Base_Class - user name provided
+2020-03-26 23:04:58,905 [main] INFO Base_Class - password provided
+2020-03-26 23:05:03,550 [main] INFO Base_Class - user name provided
+2020-03-26 23:05:03,629 [main] INFO Base_Class - password provided
+2020-03-26 23:05:07,317 [main] INFO Base_Class - Login Passed
+2020-03-26 23:05:08,398 [main] INFO Base_Class - user name provided
+2020-03-26 23:05:08,466 [main] INFO Base_Class - password provided
+2020-03-26 23:05:12,146 [main] INFO Base_Class - Login Passed
+2020-03-27 00:20:28,865 [main] INFO Base_Class - User Name is Provided
+2020-03-27 00:20:28,955 [main] INFO Base_Class - Password Name is Provided
+2020-03-27 00:20:34,561 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-27 00:20:41,613 [main] INFO Base_Class - Validation Started.....
+2020-03-27 00:22:27,632 [main] INFO Base_Class - User Name is Provided
+2020-03-27 00:22:27,724 [main] INFO Base_Class - Password Name is Provided
+2020-03-27 00:22:31,677 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-27 00:22:38,969 [main] INFO Base_Class - Validation Started.....
+2020-03-27 00:28:46,390 [main] INFO Base_Class - User Name is Provided
+2020-03-27 00:28:46,474 [main] INFO Base_Class - Password Name is Provided
+2020-03-27 00:28:50,406 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-27 00:28:57,542 [main] INFO Base_Class - Validation Started.....
+2020-03-27 00:36:25,288 [main] INFO Base_Class - User Name is Provided
+2020-03-27 00:36:25,390 [main] INFO Base_Class - Password Name is Provided
+2020-03-27 00:37:22,636 [main] INFO Base_Class - User Name is Provided
+2020-03-27 00:37:22,731 [main] INFO Base_Class - Password Name is Provided
+2020-03-27 00:38:17,113 [main] INFO Base_Class - User Name is Provided
+2020-03-27 00:38:17,381 [main] INFO Base_Class - Password Name is Provided
+2020-03-27 00:39:15,695 [main] INFO Base_Class - User Name is Provided
+2020-03-27 00:39:15,790 [main] INFO Base_Class - Password Name is Provided
+2020-03-27 00:39:19,715 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-27 00:39:29,827 [main] INFO Base_Class - Validation Started.....
+2020-03-27 00:39:29,845 [main] INFO Base_Class - Test Cases Passed
+2020-03-27 00:44:27,996 [main] INFO Base_Class - Url is open
+2020-03-27 00:44:28,154 [main] INFO Base_Class - Login is Entered
+2020-03-27 00:44:28,241 [main] INFO Base_Class - Password is Entered
+2020-03-27 00:44:32,333 [main] INFO Base_Class - user name provided
+2020-03-27 00:44:32,424 [main] INFO Base_Class - password provided
+2020-03-27 00:44:40,955 [main] INFO Base_Class - Login Passed
+2020-03-27 00:44:42,025 [main] INFO Base_Class - user name provided
+2020-03-27 00:44:42,095 [main] INFO Base_Class - password provided
+2020-03-27 00:44:45,834 [main] INFO Base_Class - user name provided
+2020-03-27 00:44:45,937 [main] INFO Base_Class - password provided
+2020-03-27 00:44:49,559 [main] INFO Base_Class - Login Passed
+2020-03-27 00:44:50,316 [main] INFO Base_Class - user name provided
+2020-03-27 00:44:50,424 [main] INFO Base_Class - password provided
+2020-03-27 00:44:53,796 [main] INFO Base_Class - Login Passed
+2020-03-27 00:44:56,525 [main] INFO Base_Class - User Name is Provided
+2020-03-27 00:44:56,695 [main] INFO Base_Class - Password Name is Provided
+2020-03-27 00:45:00,623 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-27 00:45:10,493 [main] INFO Base_Class - Validation Started.....
+2020-03-27 00:45:10,508 [main] INFO Base_Class - Test Cases Passed
+2020-03-27 11:17:46,226 [main] INFO Base_Class - Url is open
+2020-03-27 11:17:46,501 [main] INFO Base_Class - Login is Entered
+2020-03-27 11:17:46,580 [main] INFO Base_Class - Password is Entered
+2020-03-27 11:17:50,660 [main] INFO Base_Class - User Name is Provided
+2020-03-27 11:17:50,735 [main] INFO Base_Class - Password Name is Provided
+2020-03-27 11:17:55,429 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-27 11:18:06,116 [main] INFO Base_Class - Validation Started.....
+2020-03-27 11:18:06,134 [main] INFO Base_Class - Test Cases Passed
+2020-03-27 11:20:51,580 [main] INFO Base_Class - Url is open
+2020-03-27 11:20:51,793 [main] INFO Base_Class - Login is Entered
+2020-03-27 11:20:52,055 [main] INFO Base_Class - Password is Entered
+2020-03-27 11:20:52,581 [main] INFO Base_Class - Test Case Passed
+2020-03-27 11:20:52,581 [main] INFO Base_Class - Test Case Executed
+2020-03-27 11:20:55,031 [main] INFO Base_Class - User Name is Provided
+2020-03-27 11:20:55,313 [main] INFO Base_Class - Password Name is Provided
+2020-03-27 11:20:59,293 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-27 11:21:07,958 [main] INFO Base_Class - Validation Started.....
+2020-03-27 11:21:07,975 [main] INFO Base_Class - Test Cases Passed
+2020-03-27 14:24:01,767 [main] INFO Base_Class - Url is open
+2020-03-27 14:24:02,088 [main] INFO Base_Class - Login is Entered
+2020-03-27 14:24:02,267 [main] INFO Base_Class - Password is Entered
+2020-03-27 14:24:02,917 [main] INFO Base_Class - Test Case Passed
+2020-03-27 14:24:02,918 [main] INFO Base_Class - Test Case Executed
+2020-03-27 14:24:05,797 [main] INFO Base_Class - User Name is Provided
+2020-03-27 14:24:05,893 [main] INFO Base_Class - Password Name is Provided
+2020-03-27 14:24:09,966 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-27 14:24:19,375 [main] INFO Base_Class - Validation Started.....
+2020-03-27 14:24:19,393 [main] INFO Base_Class - Test Cases Passed
+2020-03-27 14:58:50,391 [main] INFO Base_Class - Url is open
+2020-03-27 14:58:50,696 [main] INFO Base_Class - Login is Entered
+2020-03-27 14:58:50,863 [main] INFO Base_Class - Password is Entered
+2020-03-27 14:58:51,389 [main] INFO Base_Class - Test Case Passed
+2020-03-27 14:58:51,389 [main] INFO Base_Class - Test Case Executed
+2020-03-27 14:58:54,895 [main] INFO Base_Class - User Name is Provided
+2020-03-27 14:58:55,081 [main] INFO Base_Class - Password Name is Provided
+2020-03-27 14:58:59,167 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-27 14:59:07,632 [main] INFO Base_Class - Validation Started.....
+2020-03-27 15:01:06,352 [main] INFO Base_Class - Url is open
+2020-03-27 15:01:06,630 [main] INFO Base_Class - Login is Entered
+2020-03-27 15:01:06,721 [main] INFO Base_Class - Password is Entered
+2020-03-27 15:01:07,159 [main] INFO Base_Class - Test Case Passed
+2020-03-27 15:01:07,159 [main] INFO Base_Class - Test Case Executed
+2020-03-27 15:01:09,475 [main] INFO Base_Class - User Name is Provided
+2020-03-27 15:01:09,562 [main] INFO Base_Class - Password Name is Provided
+2020-03-27 15:01:13,593 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-27 15:01:22,629 [main] INFO Base_Class - Validation Started.....
+2020-03-27 15:01:22,645 [main] INFO Base_Class - Test Cases Passed
+2020-03-28 15:08:16,434 [main] INFO Base_Class - Url is open
+2020-03-28 15:08:16,692 [main] INFO Base_Class - Login is Entered
+2020-03-28 15:08:16,890 [main] INFO Base_Class - Password is Entered
+2020-03-28 15:08:17,306 [main] INFO Base_Class - Test Case Passed
+2020-03-28 15:08:17,307 [main] INFO Base_Class - Test Case Executed
+2020-03-28 15:08:20,563 [main] INFO Base_Class - User Name is Provided
+2020-03-28 15:08:20,651 [main] INFO Base_Class - Password Name is Provided
+2020-03-28 15:08:24,479 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-28 15:08:33,081 [main] INFO Base_Class - Validation Started.....
+2020-03-28 15:08:33,098 [main] INFO Base_Class - Test Cases Passed
+2020-03-30 11:59:33,152 [main] INFO Base_Class - Url is open
+2020-03-30 11:59:33,319 [main] INFO Base_Class - Login is Entered
+2020-03-30 11:59:33,420 [main] INFO Base_Class - Password is Entered
+2020-03-30 11:59:34,517 [main] INFO Base_Class - Test Case Passed
+2020-03-30 11:59:34,517 [main] INFO Base_Class - Test Case Executed
+2020-03-30 11:59:37,040 [main] INFO Base_Class - User Name is Provided
+2020-03-30 11:59:37,262 [main] INFO Base_Class - Password Name is Provided
+2020-03-30 11:59:41,229 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-30 11:59:49,817 [main] INFO Base_Class - Validation Started.....
+2020-03-30 11:59:49,838 [main] INFO Base_Class - Test Cases Passed
+2020-03-30 12:43:05,414 [main] INFO Base_Class - Url is open
+2020-03-30 12:43:05,562 [main] INFO Base_Class - Login is Entered
+2020-03-30 12:43:05,652 [main] INFO Base_Class - Password is Entered
+2020-03-30 12:43:06,230 [main] INFO Base_Class - Test Case Passed
+2020-03-30 12:43:06,230 [main] INFO Base_Class - Test Case Executed
+2020-03-30 12:43:11,741 [main] INFO Base_Class - User Name is Provided
+2020-03-30 12:43:11,815 [main] INFO Base_Class - Password Name is Provided
+2020-03-30 12:43:17,657 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-30 12:43:29,473 [main] INFO Base_Class - Validation Started.....
+2020-03-30 12:43:29,491 [main] INFO Base_Class - Test Cases Passed
+2020-03-30 12:53:50,720 [main] INFO Base_Class - Url is open
+2020-03-30 12:53:50,866 [main] INFO Base_Class - Login is Entered
+2020-03-30 12:53:50,938 [main] INFO Base_Class - Password is Entered
+2020-03-30 12:53:52,835 [main] INFO Base_Class - Test Case Passed
+2020-03-30 12:53:52,836 [main] INFO Base_Class - Test Case Executed
+2020-03-30 12:53:58,913 [main] INFO Base_Class - User Name is Provided
+2020-03-30 12:53:58,995 [main] INFO Base_Class - Password Name is Provided
+2020-03-30 12:54:04,114 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-30 12:54:13,541 [main] INFO Base_Class - Validation Started.....
+2020-03-30 12:54:13,560 [main] INFO Base_Class - Test Cases Passed
+2020-03-30 12:58:34,300 [main] INFO Base_Class - Url is open
+2020-03-30 12:58:34,470 [main] INFO Base_Class - Login is Entered
+2020-03-30 12:58:34,567 [main] INFO Base_Class - Password is Entered
+2020-03-30 12:58:35,034 [main] INFO Base_Class - Test Case Passed
+2020-03-30 12:58:35,034 [main] INFO Base_Class - Test Case Executed
+2020-03-30 12:58:37,666 [main] INFO Base_Class - User Name is Provided
+2020-03-30 12:58:37,799 [main] INFO Base_Class - Password Name is Provided
+2020-03-30 12:58:42,339 [main] INFO Base_Class - Providind Customer Details.....
+2020-03-30 12:58:52,198 [main] INFO Base_Class - Validation Started.....
+2020-03-30 12:58:52,293 [main] INFO Base_Class - Test Cases Passed
